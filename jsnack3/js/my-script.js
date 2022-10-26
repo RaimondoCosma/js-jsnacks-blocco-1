@@ -5,4 +5,4 @@ for (let i = 0; i < 10; i++); {
    amount = amount + number
 }
 
-console.log(`Tot : ${i}`);
+console.log(`Tot : ${amount}`);
